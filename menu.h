@@ -1,0 +1,2 @@
+void mostrarMenu();
+void mostrarOpciones();

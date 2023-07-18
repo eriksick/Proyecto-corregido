@@ -1,0 +1,5 @@
+Nombre del producto: Maderas
+Cantidad del producto: 23
+Precio del producto: 9.20
+---------------------------------
+
